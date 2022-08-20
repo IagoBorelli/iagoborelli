@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Front-end Projects
-- 🤔 I’m looking for help with JavaScript
-- 💬 Ask me about html 
+- 🖥️ I’m looking to collaborate on Front-end Projects
+- 🤔 I’m looking for help with React
+ 
 
  <div>
   <a href="https://github.com/iagoborelli">
