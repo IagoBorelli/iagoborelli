@@ -1,4 +1,4 @@
-### SUP! I'm Iago Borelli😆
+### Hi! I'm Iago 🤓
 
 - 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning JavaScript
