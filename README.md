@@ -5,7 +5,6 @@
 - 🖥️ I’m looking to collaborate on Front-end Projects
 - 🤔 I’m looking for help with React
 
- <a href="https://app.daily.dev/Borelltz"><img src="https://api.daily.dev/devcards/ee84731ade3f4c8ea16214a10162573c.png?r=5oq" width="400" alt="Iago Borelli's Dev Card"/></a>
  
   
 
