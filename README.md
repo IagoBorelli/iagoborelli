@@ -3,7 +3,7 @@ Hey, what's up? I am Iago 🖖<br>• 💼 I’m currently working on Frontend d
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iagoborelli.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IagoBorelli) [![Portfolio](<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio.%23ffffff?logoColor=purple&color=white&link=https%3A%2F%2Fiagoborelli.bohr.io">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iagoborelli.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IagoBorelli) <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio.%23ffffff?logoColor=purple&color=white&link=https%3A%2F%2Fiagoborelli.bohr.io">
 )
 
 # 💻 Tech Stack:
