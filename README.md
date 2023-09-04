@@ -15,7 +15,6 @@ Hey, what's up? I am Iago 🖖<br>• 💼 I’m currently working on Frontend d
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoborelli&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=iagoborelli&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
