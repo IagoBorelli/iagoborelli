@@ -1,5 +1,5 @@
 # Hey, what’s up? I am Iago 🖖:
-Hey, what's up? I am Iago 🖖<br>• 💼 I’m currently working on Frontend development<br>• 👨🏻‍💻 I’m currently learning React<br>• 🖥️ I’m looking to collaborate on Front-end Projects<br>• 🤔 I’m looking for help with React Native<br>• 🤖 Developer: A machine that turns coffee into code.
+• 💼 I’m currently working on Frontend development<br>• 👨🏻‍💻 I’m currently learning React<br>• 🖥️ I’m looking to collaborate on Front-end Projects<br>• 🤔 I’m looking for help with React Native<br>• 🤖 Developer: A machine that turns coffee into code.
 
 
 ## 🌐 Socials:
