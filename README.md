@@ -25,7 +25,7 @@
 
 </td><td valign="top" width="25%">
 
-<div align="center"><h3>Databases</h3></div>
+<div align="center"><h3>Database</h3></div>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark&perline=3" />
