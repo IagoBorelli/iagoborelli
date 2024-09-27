@@ -45,5 +45,5 @@
 <br/><br/>
 
 # 📊 GitHub Stats:
-![Iago Borelli GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoborelli&rank_icon=github&theme=react&hide=contribs) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoborelli&theme=react&layout=compact&hide=css)
+![Iago Borelli GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoborelli&hide_border=false&include_all_commits=true&rank_icon=github&theme=react&hide=contribs) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoborelli&theme=react&hide_border=false&include_all_commits=true&layout=compact&hide=css)
