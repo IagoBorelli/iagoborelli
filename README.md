@@ -20,7 +20,7 @@
 <div align="center"><h3>Backend</h3></div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,&theme=dark&perline=2" alt="PHP, LARAVEL, NODE.JS"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,&theme=dark&perline=2"/>
 </p>
 
 </td><td valign="top" width="25%">
